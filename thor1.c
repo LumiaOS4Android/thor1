@@ -35,9 +35,5 @@
 #include <windows.h>
 #include <thor1.h>
 
-#include <sys/time.h>
-#include <bootimg.h>
-#include <zipfile/zipfile.h
-
 // ------------------------ Structures ------------------------
 
